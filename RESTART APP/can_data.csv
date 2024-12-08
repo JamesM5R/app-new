@@ -1,0 +1,11 @@
+Timestamp,CAN ID,Signal,Value,Warning
+2024-12-05 16:42:32,0x100,Engine Speed,1165,False
+2024-12-05 16:42:32,0x101,Temperature,36,False
+2024-12-05 16:42:33,0x102,Vehicle Speed,2641,True
+2024-12-05 16:42:33,0x100,Engine Speed,1013,False
+2024-12-05 16:42:34,0x101,Temperature,57,False
+2024-12-05 16:42:34,0x102,Vehicle Speed,4233,True
+2024-12-05 16:42:35,0x100,Engine Speed,956,False
+2024-12-05 16:42:36,0x101,Temperature,87,False
+2024-12-05 16:42:36,0x102,Vehicle Speed,3236,True
+2024-12-05 16:42:37,0x100,Engine Speed,4915,True

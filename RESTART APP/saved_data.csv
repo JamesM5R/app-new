@@ -1,0 +1,998 @@
+Dates of Absences,Name,Email Name,Manager,Email Manager,Week,Date of Send,Date of Response,Category,Justificative
+2024-12-04,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-07,Mise à jour planning,Démission
+2024-11-22,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-30,Mise à jour planning,Démission
+2024-11-25,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-26,2024-11-30,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-21,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-24,Mise à jour planning,Congé planifié
+2024-11-02,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-04,2024-11-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-25,2024-11-27,A verifier,Probléme de badge d'accès
+2024-11-25,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-27,2024-11-30,Mise à jour planning,Démission
+2024-11-12,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-14,Mise à jour planning,Mise à jour manquante
+2024-11-16,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-11-08,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-12,Mise à jour planning,Autorisation du responsable direct
+2024-11-01,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-08,A verifier,Probléme de badge d'accès
+2024-11-07,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-11,Mise à jour planning,Autorisation du responsable direct
+2024-11-13,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-13,2024-11-14,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-05,A verifier,Probléme de badge d'accès
+2024-11-28,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-30,Attente d'information,Attente d'information
+2024-11-30,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-02,2024-12-04,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-26,2024-11-29,Mise à jour planning,Démission
+2024-11-27,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-05,Absence,Absence pour raisons de santé
+2024-12-02,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-05,2024-12-09,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-08,A verifier,Probléme de badge d'accès
+2024-11-21,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Autorisation du responsable direct
+2024-12-01,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-12-04,2024-12-09,Attente d'information,Attente d'information
+2024-12-03,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-07,A verifier,Probléme de badge d'accès
+2024-11-07,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-12,Attente d'information,Attente d'information
+2024-11-13,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-20,Mise à jour planning,Mise à jour manquante
+2024-11-21,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-26,Mise à jour planning,Démission
+2024-11-02,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,44,2024-11-02,2024-11-05,Attente d'information,Attente d'information
+2024-11-15,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-17,2024-11-20,Absence,Absence pour raisons de santé
+2024-11-08,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-11,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-29,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-02,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-19,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-22,2024-11-25,A verifier,Probléme de badge d'accès
+2024-11-11,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-12,2024-11-17,Absence,Absence pour raisons de santé
+2024-11-28,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-01,A verifier,Décalage de planning
+2024-11-25,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-11-30,Absence,Absence excepionnelle non prévu
+2024-11-03,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,44,2024-11-04,2024-11-08,A verifier,Probléme de badge d'accès
+2024-11-27,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-01,Mise à jour planning,Démission
+2024-11-24,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-27,2024-11-29,Mise à jour planning,Congé planifié
+2024-11-12,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-18,Mise à jour planning,Mise à jour manquante
+2024-12-02,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-02,2024-12-05,Attente d'information,Attente d'information
+2024-11-23,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-16,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-19,2024-11-24,Absence,Absence pour raisons de santé
+2024-11-23,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-24,2024-11-27,Absence,Absence excepionnelle non prévu
+2024-11-30,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-07,Mise à jour planning,Démission
+2024-11-18,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-11-18,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-18,2024-11-20,Absence,Absence excepionnelle non prévu
+2024-11-04,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-04,2024-11-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-11,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-14,2024-11-17,Attente d'information,Attente d'information
+2024-11-11,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-12,2024-11-17,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-02,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-10,Mise à jour planning,Congé planifié
+2024-11-26,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-02,Mise à jour planning,Démission
+2024-11-18,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-22,Absence,Absence excepionnelle non prévu
+2024-11-15,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-19,Mise à jour planning,Mise à jour manquante
+2024-11-11,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-12,2024-11-14,Mise à jour planning,Congé planifié
+2024-11-23,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-24,Attente d'information,Attente d'information
+2024-11-26,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-27,2024-11-29,Attente d'information,Attente d'information
+2024-11-22,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-22,2024-11-24,A verifier,Décalage de planning
+2024-12-05,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-07,Absence,Absence excepionnelle non prévu
+2024-11-25,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-26,2024-12-01,Mise à jour planning,Autorisation du responsable direct
+2024-11-17,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-20,2024-11-24,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-03,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-07,Absence,Absence pour raisons de santé
+2024-11-25,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-26,2024-11-30,A verifier,Probléme de badge d'accès
+2024-11-17,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-21,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-04,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-11,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-30,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-12-02,2024-12-03,A verifier,Probléme de badge d'accès
+2024-11-17,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-20,2024-11-22,Mise à jour planning,Autorisation du responsable direct
+2024-11-22,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-26,Mise à jour planning,Autorisation du responsable direct
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-08,Absence,Absence pour raisons de santé
+2024-11-15,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-17,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-01,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-04,2024-12-05,A verifier,Probléme de badge d'accès
+2024-11-18,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-18,2024-11-20,Attente d'information,Attente d'information
+2024-11-22,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-27,A verifier,Probléme de badge d'accès
+2024-12-03,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-03,2024-12-05,Mise à jour planning,Congé planifié
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-29,Attente d'information,Attente d'information
+2024-11-15,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-20,Absence,Absence excepionnelle non prévu
+2024-11-30,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-12-03,2024-12-06,Mise à jour planning,Mise à jour manquante
+2024-11-06,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-13,Absence,Absence excepionnelle non prévu
+2024-11-04,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-09,Absence,Absence pour raisons de santé
+2024-12-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-06,Absence,Absence excepionnelle non prévu
+2024-11-23,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-09,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-09,2024-11-13,Absence,Absence pour raisons de santé
+2024-11-20,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Démission
+2024-11-22,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-11-12,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-18,A verifier,Probléme de badge d'accès
+2024-11-17,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-18,2024-11-23,Attente d'information,Attente d'information
+2024-11-12,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-12,2024-11-17,Mise à jour planning,Congé planifié
+2024-11-13,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-21,Absence,Absence pour raisons de santé
+2024-11-08,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-09,2024-11-14,Mise à jour planning,Mise à jour manquante
+2024-11-18,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-19,2024-11-24,Mise à jour planning,Congé planifié
+2024-12-04,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-09,Mise à jour planning,Autorisation du responsable direct
+2024-12-03,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-05,2024-12-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-10,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-11,2024-11-14,Mise à jour planning,Autorisation du responsable direct
+2024-11-23,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-25,2024-11-27,Mise à jour planning,Démission
+2024-11-16,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-12-03,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-04,2024-12-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-16,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-19,Mise à jour planning,Démission
+2024-11-21,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-26,Mise à jour planning,Autorisation du responsable direct
+2024-11-26,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-11-27,A verifier,Décalage de planning
+2024-11-21,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-24,Mise à jour planning,Autorisation du responsable direct
+2024-11-12,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Mise à jour planning,Mise à jour manquante
+2024-11-28,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-11-30,Absence,Absence excepionnelle non prévu
+2024-11-12,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-28,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-06,Absence,Absence pour raisons de santé
+2024-11-03,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-06,A verifier,Décalage de planning
+2024-11-05,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-11,A verifier,Probléme de badge d'accès
+2024-12-03,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-04,2024-12-05,Mise à jour planning,Mise à jour manquante
+2024-11-26,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-27,2024-12-01,A verifier,Probléme de badge d'accès
+2024-11-14,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-19,Mise à jour planning,Congé planifié
+2024-11-02,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-05,Attente d'information,Attente d'information
+2024-11-28,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-01,2024-12-02,Absence,Absence excepionnelle non prévu
+2024-11-08,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-09,2024-11-14,Absence,Absence excepionnelle non prévu
+2024-11-23,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-25,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-20,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-24,Absence,Absence pour raisons de santé
+2024-12-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-07,2024-12-08,Mise à jour planning,Mise à jour manquante
+2024-11-24,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-25,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-19,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-22,2024-11-25,A verifier,Probléme de badge d'accès
+2024-11-27,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-27,2024-12-01,Mise à jour planning,Mise à jour manquante
+2024-11-19,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-23,A verifier,Probléme de badge d'accès
+2024-11-24,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-26,2024-11-27,Mise à jour planning,Congé planifié
+2024-11-19,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-19,2024-11-21,Mise à jour planning,Autorisation du responsable direct
+2024-11-24,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-27,2024-12-01,Mise à jour planning,Démission
+2024-11-23,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Démission
+2024-11-05,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-08,Mise à jour planning,Autorisation du responsable direct
+2024-11-12,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-16,A verifier,Décalage de planning
+2024-11-10,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-12,2024-11-13,A verifier,Décalage de planning
+2024-11-03,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-05,Mise à jour planning,Congé planifié
+2024-11-25,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-03,Absence,Absence pour raisons de santé
+2024-11-28,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-05,Absence,Absence pour raisons de santé
+2024-11-20,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-25,Attente d'information,Attente d'information
+2024-11-26,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-02,Absence,Absence excepionnelle non prévu
+2024-11-30,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-03,Mise à jour planning,Congé planifié
+2024-12-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-07,2024-12-11,Mise à jour planning,Mise à jour manquante
+2024-11-22,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-25,Absence,Absence pour raisons de santé
+2024-11-20,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-22,A verifier,Probléme de badge d'accès
+2024-12-02,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-03,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-05,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-07,2024-12-09,Absence,Absence pour raisons de santé
+2024-11-21,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-26,Mise à jour planning,Mise à jour manquante
+2024-11-14,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-11-01,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,44,2024-11-01,2024-11-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-13,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-15,A verifier,Probléme de badge d'accès
+2024-11-07,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-11-13,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-21,Absence,Absence pour raisons de santé
+2024-11-06,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Mise à jour planning,Congé planifié
+2024-12-03,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-08,Absence,Absence pour raisons de santé
+2024-11-22,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-12-02,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-03,2024-12-04,Absence,Absence excepionnelle non prévu
+2024-12-04,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-07,2024-12-12,A verifier,Décalage de planning
+2024-11-15,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-18,A verifier,Probléme de badge d'accès
+2024-12-02,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-10,A verifier,Décalage de planning
+2024-11-02,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-05,2024-11-07,Absence,Absence excepionnelle non prévu
+2024-11-18,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-19,2024-11-24,Mise à jour planning,Mise à jour manquante
+2024-11-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-06,Mise à jour planning,Congé planifié
+2024-11-29,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-05,A verifier,Décalage de planning
+2024-11-30,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-30,2024-12-02,Attente d'information,Attente d'information
+2024-11-29,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-02,Mise à jour planning,Autorisation du responsable direct
+2024-11-17,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-23,A verifier,Décalage de planning
+2024-11-01,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-04,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-09,Mise à jour planning,Démission
+2024-11-21,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-28,A verifier,Décalage de planning
+2024-11-21,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-22,2024-11-24,Absence,Absence excepionnelle non prévu
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-27,Mise à jour planning,Démission
+2024-11-15,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-18,Mise à jour planning,Autorisation du responsable direct
+2024-11-23,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-25,Mise à jour planning,Mise à jour manquante
+2024-11-08,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-11,A verifier,Décalage de planning
+2024-11-10,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-14,A verifier,Probléme de badge d'accès
+2024-11-09,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-12,2024-11-13,Absence,Absence pour raisons de santé
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-10,Mise à jour planning,Autorisation du responsable direct
+2024-12-01,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-04,2024-12-07,A verifier,Décalage de planning
+2024-11-30,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-05,Attente d'information,Attente d'information
+2024-11-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-10,Absence,Absence excepionnelle non prévu
+2024-11-21,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Démission
+2024-11-15,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-12-01,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-12-04,2024-12-09,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-01,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-04,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-19,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-23,Mise à jour planning,Démission
+2024-11-02,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-09,A verifier,Décalage de planning
+2024-12-02,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-06,Mise à jour planning,Démission
+2024-11-27,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-01,Mise à jour planning,Autorisation du responsable direct
+2024-12-03,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-08,Mise à jour planning,Mise à jour manquante
+2024-11-10,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-12,2024-11-16,Mise à jour planning,Congé planifié
+2024-11-25,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-26,2024-11-29,Mise à jour planning,Mise à jour manquante
+2024-11-02,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,44,2024-11-05,2024-11-07,Absence,Absence excepionnelle non prévu
+2024-11-17,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-20,Absence,Absence pour raisons de santé
+2024-12-05,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-06,2024-12-07,Attente d'information,Attente d'information
+2024-12-02,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-21,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-28,Mise à jour planning,Démission
+2024-11-05,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-05,2024-11-07,Mise à jour planning,Mise à jour manquante
+2024-11-28,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-01,A verifier,Décalage de planning
+2024-11-25,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-20,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-26,Attente d'information,Attente d'information
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-12,Mise à jour planning,Congé planifié
+2024-11-01,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-11-27,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-29,Attente d'information,Attente d'information
+2024-11-05,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-10,A verifier,Probléme de badge d'accès
+2024-11-25,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-11-30,Attente d'information,Attente d'information
+2024-11-08,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-09,A verifier,Décalage de planning
+2024-11-30,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-01,Mise à jour planning,Démission
+2024-11-15,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-22,A verifier,Probléme de badge d'accès
+2024-11-14,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-07,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-11,Mise à jour planning,Démission
+2024-11-28,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-11-30,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-27,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-11-29,Mise à jour planning,Mise à jour manquante
+2024-12-05,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-07,2024-12-10,Mise à jour planning,Démission
+2024-12-04,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-05,Absence,Absence pour raisons de santé
+2024-11-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-07,Mise à jour planning,Congé planifié
+2024-11-02,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-07,Mise à jour planning,Mise à jour manquante
+2024-11-01,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-02,2024-11-04,A verifier,Probléme de badge d'accès
+2024-11-18,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-20,Absence,Absence excepionnelle non prévu
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-12-03,Absence,Absence excepionnelle non prévu
+2024-11-18,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-18,2024-11-22,Attente d'information,Attente d'information
+2024-11-19,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-23,Absence,Absence excepionnelle non prévu
+2024-11-02,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,44,2024-11-04,2024-11-06,Mise à jour planning,Démission
+2024-11-16,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-19,Mise à jour planning,Congé planifié
+2024-11-18,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-18,2024-11-23,A verifier,Probléme de badge d'accès
+2024-11-27,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-12-03,Mise à jour planning,Congé planifié
+2024-11-13,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-20,Mise à jour planning,Congé planifié
+2024-11-13,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-19,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-04,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-07,A verifier,Probléme de badge d'accès
+2024-11-11,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-17,Mise à jour planning,Autorisation du responsable direct
+2024-11-13,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-18,A verifier,Probléme de badge d'accès
+2024-12-02,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-03,2024-12-05,Attente d'information,Attente d'information
+2024-11-03,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-08,Absence,Absence pour raisons de santé
+2024-11-16,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-19,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-11-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-07,A verifier,Probléme de badge d'accès
+2024-11-20,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-23,Mise à jour planning,Congé planifié
+2024-11-27,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-27,2024-11-28,Mise à jour planning,Démission
+2024-11-17,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-19,Attente d'information,Attente d'information
+2024-11-18,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-20,2024-11-24,Absence,Absence excepionnelle non prévu
+2024-11-25,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-26,2024-11-30,Mise à jour planning,Congé planifié
+2024-11-29,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-12-02,2024-12-06,Mise à jour planning,Congé planifié
+2024-11-03,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-06,2024-11-07,Absence,Absence excepionnelle non prévu
+2024-11-07,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-13,Mise à jour planning,Démission
+2024-11-30,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-02,Attente d'information,Attente d'information
+2024-11-14,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-21,A verifier,Probléme de badge d'accès
+2024-11-15,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-22,A verifier,Probléme de badge d'accès
+2024-11-05,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-09,Attente d'information,Attente d'information
+2024-11-16,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-19,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-26,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-01,Absence,Absence pour raisons de santé
+2024-11-02,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-08,Mise à jour planning,Congé planifié
+2024-11-06,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-09,2024-11-10,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-02,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,49,2024-12-04,2024-12-05,Absence,Absence pour raisons de santé
+2024-11-13,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-19,Absence,Absence pour raisons de santé
+2024-11-01,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-05,Mise à jour planning,Congé planifié
+2024-11-18,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-21,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-11,2024-11-14,A verifier,Probléme de badge d'accès
+2024-11-29,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-06,Absence,Absence pour raisons de santé
+2024-12-01,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-03,2024-12-08,Mise à jour planning,Autorisation du responsable direct
+2024-11-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-08,A verifier,Décalage de planning
+2024-11-11,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-14,2024-11-16,Absence,Absence excepionnelle non prévu
+2024-11-29,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-29,2024-12-04,Mise à jour planning,Mise à jour manquante
+2024-11-06,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-10,Mise à jour planning,Mise à jour manquante
+2024-11-28,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-02,A verifier,Probléme de badge d'accès
+2024-11-12,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-17,Mise à jour planning,Mise à jour manquante
+2024-11-23,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-25,Mise à jour planning,Autorisation du responsable direct
+2024-11-18,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-23,A verifier,Décalage de planning
+2024-11-03,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-06,Mise à jour planning,Démission
+2024-11-08,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-11,2024-11-16,Attente d'information,Attente d'information
+2024-12-02,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-02,2024-12-04,A verifier,Décalage de planning
+2024-12-05,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-07,Mise à jour planning,Mise à jour manquante
+2024-12-02,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-05,Mise à jour planning,Autorisation du responsable direct
+2024-11-15,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-17,2024-11-19,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-30,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-06,A verifier,Décalage de planning
+2024-11-17,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-19,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-11,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-11,2024-11-14,Attente d'information,Attente d'information
+2024-11-06,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-13,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Mise à jour planning,Mise à jour manquante
+2024-11-30,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-21,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-21,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-11-19,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-20,Absence,Absence excepionnelle non prévu
+2024-12-01,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-03,2024-12-08,Mise à jour planning,Mise à jour manquante
+2024-11-09,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-11,Mise à jour planning,Démission
+2024-11-16,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-20,Absence,Absence pour raisons de santé
+2024-11-05,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-07,Absence,Absence pour raisons de santé
+2024-12-05,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-07,Mise à jour planning,Autorisation du responsable direct
+2024-11-21,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-29,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-04,Mise à jour planning,Démission
+2024-11-28,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-02,Mise à jour planning,Mise à jour manquante
+2024-11-29,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-02,A verifier,Décalage de planning
+2024-11-06,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-12,Mise à jour planning,Autorisation du responsable direct
+2024-11-20,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Mise à jour manquante
+2024-11-24,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-25,2024-11-27,Absence,Absence pour raisons de santé
+2024-11-08,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-11,Mise à jour planning,Mise à jour manquante
+2024-11-16,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-20,Mise à jour planning,Mise à jour manquante
+2024-11-16,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-23,A verifier,Décalage de planning
+2024-12-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-07,2024-12-10,Mise à jour planning,Démission
+2024-11-03,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-06,2024-11-07,Mise à jour planning,Démission
+2024-11-18,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-18,2024-11-20,Absence,Absence excepionnelle non prévu
+2024-11-12,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-15,Mise à jour planning,Congé planifié
+2024-11-26,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-03,A verifier,Décalage de planning
+2024-12-03,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-03,2024-12-04,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-06,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-09,2024-11-11,Mise à jour planning,Autorisation du responsable direct
+2024-11-15,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-18,A verifier,Décalage de planning
+2024-12-04,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-04,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-09,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-13,Mise à jour planning,Mise à jour manquante
+2024-11-22,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-25,2024-11-29,Attente d'information,Attente d'information
+2024-11-14,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-19,A verifier,Décalage de planning
+2024-12-04,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-07,Mise à jour planning,Congé planifié
+2024-11-25,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Mise à jour manquante
+2024-11-03,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-07,Mise à jour planning,Autorisation du responsable direct
+2024-12-04,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,49,2024-12-04,2024-12-09,Absence,Absence excepionnelle non prévu
+2024-11-19,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,47,2024-11-19,2024-11-21,A verifier,Probléme de badge d'accès
+2024-11-10,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-08,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-13,Absence,Absence pour raisons de santé
+2024-11-06,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-12,A verifier,Probléme de badge d'accès
+2024-11-16,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-23,Mise à jour planning,Congé planifié
+2024-11-11,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-17,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-13,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-16,A verifier,Probléme de badge d'accès
+2024-11-15,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-17,Mise à jour planning,Congé planifié
+2024-11-16,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-19,Absence,Absence pour raisons de santé
+2024-11-11,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-14,2024-11-15,Mise à jour planning,Autorisation du responsable direct
+2024-11-01,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-04,2024-11-09,Mise à jour planning,Congé planifié
+2024-11-02,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,44,2024-11-05,2024-11-08,Attente d'information,Attente d'information
+2024-11-22,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-29,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-07,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-15,Absence,Absence excepionnelle non prévu
+2024-11-20,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-26,A verifier,Décalage de planning
+2024-11-13,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-11-24,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-26,2024-11-30,A verifier,Décalage de planning
+2024-12-01,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-03,2024-12-04,A verifier,Probléme de badge d'accès
+2024-11-18,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-18,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-11-04,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-04,2024-11-07,Absence,Absence pour raisons de santé
+2024-12-03,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-03,2024-12-08,A verifier,Décalage de planning
+2024-11-04,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-04,2024-11-05,Absence,Absence excepionnelle non prévu
+2024-11-27,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-12-02,Attente d'information,Attente d'information
+2024-11-09,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-14,Absence,Absence excepionnelle non prévu
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-26,Mise à jour planning,Démission
+2024-11-20,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-12,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-16,Absence,Absence excepionnelle non prévu
+2024-11-09,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-11,2024-11-12,Absence,Absence pour raisons de santé
+2024-11-12,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-12,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-20,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-26,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-11-29,Absence,Absence pour raisons de santé
+2024-11-29,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-02,2024-12-05,Mise à jour planning,Autorisation du responsable direct
+2024-11-04,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-04,2024-11-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-24,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-26,Mise à jour planning,Congé planifié
+2024-11-10,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-12,2024-11-13,Mise à jour planning,Congé planifié
+2024-12-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-02,2024-12-06,Absence,Absence pour raisons de santé
+2024-11-22,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-22,2024-11-25,Mise à jour planning,Mise à jour manquante
+2024-11-09,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-12,2024-11-15,Mise à jour planning,Autorisation du responsable direct
+2024-11-11,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-13,2024-11-18,A verifier,Probléme de badge d'accès
+2024-11-17,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-20,2024-11-24,A verifier,Probléme de badge d'accès
+2024-11-28,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-01,Mise à jour planning,Congé planifié
+2024-11-02,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-06,Absence,Absence pour raisons de santé
+2024-11-04,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-08,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-12,Absence,Absence excepionnelle non prévu
+2024-12-04,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-21,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-16,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-19,2024-11-20,Absence,Absence pour raisons de santé
+2024-11-20,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-24,Mise à jour planning,Congé planifié
+2024-12-01,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-04,2024-12-09,Mise à jour planning,Autorisation du responsable direct
+2024-11-03,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,44,2024-11-04,2024-11-09,Absence,Absence excepionnelle non prévu
+2024-11-16,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-11-29,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-29,2024-12-01,Mise à jour planning,Congé planifié
+2024-11-03,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-08,Mise à jour planning,Démission
+2024-11-21,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-27,Absence,Absence pour raisons de santé
+2024-11-09,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-11,A verifier,Décalage de planning
+2024-11-24,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-24,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-07,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-15,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-14,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-22,A verifier,Décalage de planning
+2024-12-01,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-12-03,2024-12-07,Mise à jour planning,Démission
+2024-11-26,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-04,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-05,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-10,Mise à jour planning,Mise à jour manquante
+2024-11-30,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-01,A verifier,Probléme de badge d'accès
+2024-11-21,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-25,Mise à jour planning,Mise à jour manquante
+2024-12-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-06,2024-12-07,A verifier,Probléme de badge d'accès
+2024-11-09,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-15,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-12-02,A verifier,Décalage de planning
+2024-11-02,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-02,2024-11-07,Mise à jour planning,Démission
+2024-11-18,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-21,2024-11-26,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-29,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-30,2024-12-01,Mise à jour planning,Démission
+2024-11-11,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-11,2024-11-14,Mise à jour planning,Congé planifié
+2024-11-02,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,44,2024-11-02,2024-11-03,Absence,Absence pour raisons de santé
+2024-11-02,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,44,2024-11-04,2024-11-05,Mise à jour planning,Congé planifié
+2024-11-03,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-05,2024-11-09,Absence,Absence excepionnelle non prévu
+2024-11-15,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-18,A verifier,Décalage de planning
+2024-11-04,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-09,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-25,2024-11-28,A verifier,Probléme de badge d'accès
+2024-11-22,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-30,Mise à jour planning,Mise à jour manquante
+2024-11-18,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-24,Mise à jour planning,Démission
+2024-11-03,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-30,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-02,Absence,Absence pour raisons de santé
+2024-11-04,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-10,Mise à jour planning,Mise à jour manquante
+2024-11-02,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,44,2024-11-05,2024-11-08,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-14,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-19,Absence,Absence pour raisons de santé
+2024-11-09,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-11,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-12,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-18,A verifier,Décalage de planning
+2024-11-25,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-01,A verifier,Décalage de planning
+2024-11-11,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-18,Mise à jour planning,Congé planifié
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-10,Mise à jour planning,Mise à jour manquante
+2024-11-29,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-05,A verifier,Décalage de planning
+2024-12-02,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-09,A verifier,Décalage de planning
+2024-12-03,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-06,2024-12-11,A verifier,Décalage de planning
+2024-11-26,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-01,Absence,Absence excepionnelle non prévu
+2024-11-22,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-24,Attente d'information,Attente d'information
+2024-11-30,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-12-02,2024-12-05,A verifier,Probléme de badge d'accès
+2024-11-08,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-13,Mise à jour planning,Démission
+2024-11-09,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-12,2024-11-15,Mise à jour planning,Congé planifié
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-11,Absence,Absence excepionnelle non prévu
+2024-11-23,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-26,2024-12-01,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-12,Mise à jour planning,Autorisation du responsable direct
+2024-11-10,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-12,2024-11-14,Mise à jour planning,Congé planifié
+2024-11-13,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-13,2024-11-14,Attente d'information,Attente d'information
+2024-11-28,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-02,A verifier,Probléme de badge d'accès
+2024-11-19,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-22,Mise à jour planning,Autorisation du responsable direct
+2024-11-20,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-24,Absence,Absence pour raisons de santé
+2024-11-30,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-02,Mise à jour planning,Mise à jour manquante
+2024-12-05,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-08,2024-12-12,Attente d'information,Attente d'information
+2024-11-26,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-11-30,A verifier,Probléme de badge d'accès
+2024-11-13,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-17,A verifier,Probléme de badge d'accès
+2024-11-10,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-12,Mise à jour planning,Démission
+2024-11-12,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-18,A verifier,Probléme de badge d'accès
+2024-11-13,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-18,Mise à jour planning,Mise à jour manquante
+2024-11-21,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-26,A verifier,Décalage de planning
+2024-11-23,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-26,A verifier,Décalage de planning
+2024-11-18,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-24,A verifier,Probléme de badge d'accès
+2024-11-21,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-23,A verifier,Décalage de planning
+2024-11-18,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,47,2024-11-18,2024-11-22,Absence,Absence excepionnelle non prévu
+2024-11-10,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-11,2024-11-16,Attente d'information,Attente d'information
+2024-11-10,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-13,2024-11-18,A verifier,Décalage de planning
+2024-11-15,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-18,Attente d'information,Attente d'information
+2024-12-04,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-07,2024-12-09,Absence,Absence excepionnelle non prévu
+2024-12-03,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-10,A verifier,Probléme de badge d'accès
+2024-11-22,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-30,Mise à jour planning,Congé planifié
+2024-12-03,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-03,2024-12-05,A verifier,Probléme de badge d'accès
+2024-11-29,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-06,A verifier,Probléme de badge d'accès
+2024-11-17,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-20,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-11-17,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-17,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-11-15,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Mise à jour planning,Démission
+2024-12-05,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-07,2024-12-10,Absence,Absence pour raisons de santé
+2024-11-13,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-19,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-12-02,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-06,A verifier,Décalage de planning
+2024-11-03,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-06,2024-11-09,A verifier,Probléme de badge d'accès
+2024-11-29,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-02,Mise à jour planning,Congé planifié
+2024-11-27,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Démission
+2024-11-19,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-24,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-27,Mise à jour planning,Démission
+2024-11-06,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-10,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-06,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-10,Mise à jour planning,Autorisation du responsable direct
+2024-11-24,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-27,2024-11-28,A verifier,Probléme de badge d'accès
+2024-11-03,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-08,Attente d'information,Attente d'information
+2024-11-30,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-01,Absence,Absence pour raisons de santé
+2024-11-11,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-15,Attente d'information,Attente d'information
+2024-11-16,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-22,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-04,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-29,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-12-02,2024-12-03,Mise à jour planning,Démission
+2024-11-14,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-10,Mise à jour planning,Mise à jour manquante
+2024-11-16,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-17,A verifier,Décalage de planning
+2024-11-05,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-12,Absence,Absence excepionnelle non prévu
+2024-11-07,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-12,Mise à jour planning,Congé planifié
+2024-11-07,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-11-29,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-30,2024-12-03,Attente d'information,Attente d'information
+2024-12-03,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-09,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-11,2024-11-13,Mise à jour planning,Mise à jour manquante
+2024-12-01,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-12-04,2024-12-07,Absence,Absence pour raisons de santé
+2024-11-13,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-14,2024-11-17,Mise à jour planning,Démission
+2024-12-04,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-06,2024-12-07,Mise à jour planning,Mise à jour manquante
+2024-11-13,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-19,Mise à jour planning,Congé planifié
+2024-11-07,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-12,Mise à jour planning,Mise à jour manquante
+2024-11-13,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-17,Absence,Absence pour raisons de santé
+2024-11-01,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-04,Mise à jour planning,Congé planifié
+2024-11-18,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-24,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,44,2024-11-02,2024-11-03,Mise à jour planning,Mise à jour manquante
+2024-11-21,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-24,Mise à jour planning,Mise à jour manquante
+2024-11-18,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-22,Attente d'information,Attente d'information
+2024-11-11,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-14,2024-11-17,Mise à jour planning,Démission
+2024-11-28,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-04,Mise à jour planning,Mise à jour manquante
+2024-11-26,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-11-28,Mise à jour planning,Autorisation du responsable direct
+2024-12-05,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-08,Attente d'information,Attente d'information
+2024-11-01,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,44,2024-11-02,2024-11-05,Attente d'information,Attente d'information
+2024-12-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-02,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-09,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-11,Absence,Absence excepionnelle non prévu
+2024-12-03,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,49,2024-12-06,2024-12-09,Mise à jour planning,Mise à jour manquante
+2024-12-03,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-08,Mise à jour planning,Autorisation du responsable direct
+2024-12-03,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-06,2024-12-11,Mise à jour planning,Démission
+2024-11-30,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-05,Mise à jour planning,Autorisation du responsable direct
+2024-11-09,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-15,Absence,Absence excepionnelle non prévu
+2024-11-18,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,47,2024-11-20,2024-11-22,A verifier,Décalage de planning
+2024-12-04,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-06,Absence,Absence pour raisons de santé
+2024-11-25,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-30,Mise à jour planning,Congé planifié
+2024-11-11,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-13,2024-11-17,Attente d'information,Attente d'information
+2024-11-23,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-29,A verifier,Probléme de badge d'accès
+2024-11-19,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-05,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-07,Mise à jour planning,Démission
+2024-11-20,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-25,A verifier,Probléme de badge d'accès
+2024-11-07,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-12,Absence,Absence excepionnelle non prévu
+2024-12-05,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-08,2024-12-10,A verifier,Décalage de planning
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-12-02,Attente d'information,Attente d'information
+2024-11-05,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-07,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-15,A verifier,Probléme de badge d'accès
+2024-11-16,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-17,Mise à jour planning,Mise à jour manquante
+2024-11-21,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-24,2024-11-27,Absence,Absence pour raisons de santé
+2024-11-22,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-30,Absence,Absence excepionnelle non prévu
+2024-11-18,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-21,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-23,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-26,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-29,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-12-03,Mise à jour planning,Congé planifié
+2024-11-03,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-03,2024-11-07,Mise à jour planning,Mise à jour manquante
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-28,Mise à jour planning,Congé planifié
+2024-11-15,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-11-01,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-05,Mise à jour planning,Démission
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-27,2024-12-02,Absence,Absence pour raisons de santé
+2024-11-01,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-05,A verifier,Probléme de badge d'accès
+2024-12-04,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-04,2024-12-08,Absence,Absence pour raisons de santé
+2024-11-24,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-27,2024-12-02,A verifier,Décalage de planning
+2024-11-06,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-09,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-06,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-09,2024-11-12,A verifier,Décalage de planning
+2024-11-19,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-18,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-13,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-11-18,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-18,2024-11-20,Mise à jour planning,Mise à jour manquante
+2024-11-23,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-29,Mise à jour planning,Mise à jour manquante
+2024-11-13,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-17,Attente d'information,Attente d'information
+2024-11-14,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-21,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-14,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-19,A verifier,Probléme de badge d'accès
+2024-11-29,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-09,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-13,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-20,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-24,Absence,Absence pour raisons de santé
+2024-11-16,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-17,2024-11-21,Attente d'information,Attente d'information
+2024-11-03,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,44,2024-11-03,2024-11-07,Absence,Absence excepionnelle non prévu
+2024-11-28,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Mise à jour manquante
+2024-12-03,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-05,2024-12-09,Mise à jour planning,Mise à jour manquante
+2024-12-04,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-07,A verifier,Probléme de badge d'accès
+2024-11-01,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-04,Mise à jour planning,Mise à jour manquante
+2024-11-28,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-17,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-20,Mise à jour planning,Démission
+2024-12-03,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-04,2024-12-08,A verifier,Décalage de planning
+2024-11-03,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-07,Mise à jour planning,Congé planifié
+2024-11-14,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-15,Absence,Absence pour raisons de santé
+2024-11-28,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-03,Mise à jour planning,Démission
+2024-11-20,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-24,Absence,Absence pour raisons de santé
+2024-12-05,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-06,A verifier,Décalage de planning
+2024-11-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-04,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-26,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Démission
+2024-11-03,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-06,2024-11-08,Absence,Absence excepionnelle non prévu
+2024-12-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-03,2024-12-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-12,Absence,Absence excepionnelle non prévu
+2024-12-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-04,2024-12-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-20,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-27,Mise à jour planning,Autorisation du responsable direct
+2024-11-21,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-23,Mise à jour planning,Démission
+2024-11-20,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-23,Absence,Absence excepionnelle non prévu
+2024-12-05,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-07,2024-12-08,Mise à jour planning,Congé planifié
+2024-11-19,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-24,Attente d'information,Attente d'information
+2024-11-16,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-18,Mise à jour planning,Mise à jour manquante
+2024-11-08,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-13,A verifier,Probléme de badge d'accès
+2024-11-15,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-22,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Démission
+2024-11-12,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-18,Mise à jour planning,Mise à jour manquante
+2024-11-25,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-02,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-22,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-27,2024-11-30,Mise à jour planning,Autorisation du responsable direct
+2024-11-29,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-06,Absence,Absence pour raisons de santé
+2024-11-08,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-15,A verifier,Décalage de planning
+2024-11-26,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-02,Mise à jour planning,Démission
+2024-11-15,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-19,Mise à jour planning,Mise à jour manquante
+2024-11-27,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-12-03,A verifier,Probléme de badge d'accès
+2024-12-04,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-07,2024-12-11,Mise à jour planning,Démission
+2024-11-19,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-25,Mise à jour planning,Démission
+2024-11-06,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-10,A verifier,Décalage de planning
+2024-11-26,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-26,2024-11-27,A verifier,Probléme de badge d'accès
+2024-11-16,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-23,Absence,Absence excepionnelle non prévu
+2024-12-01,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-06,Attente d'information,Attente d'information
+2024-12-04,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,49,2024-12-07,2024-12-09,Absence,Absence pour raisons de santé
+2024-12-04,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-07,2024-12-12,Mise à jour planning,Congé planifié
+2024-11-05,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-05,2024-11-07,Absence,Absence pour raisons de santé
+2024-11-30,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-03,A verifier,Décalage de planning
+2024-11-17,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-19,Attente d'information,Attente d'information
+2024-12-01,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-03,2024-12-04,Mise à jour planning,Autorisation du responsable direct
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-24,Mise à jour planning,Congé planifié
+2024-11-13,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-20,Attente d'information,Attente d'information
+2024-11-14,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-22,A verifier,Probléme de badge d'accès
+2024-11-11,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-11,2024-11-12,Mise à jour planning,Autorisation du responsable direct
+2024-11-21,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-26,A verifier,Probléme de badge d'accès
+2024-11-26,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-26,2024-11-30,Absence,Absence pour raisons de santé
+2024-11-01,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-01,2024-11-02,Mise à jour planning,Autorisation du responsable direct
+2024-11-27,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-04,Mise à jour planning,Autorisation du responsable direct
+2024-11-30,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-03,2024-12-04,Absence,Absence pour raisons de santé
+2024-11-15,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-11-05,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-05,2024-11-07,Attente d'information,Attente d'information
+2024-11-08,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-10,A verifier,Décalage de planning
+2024-11-29,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-02,2024-12-07,A verifier,Décalage de planning
+2024-11-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-03,2024-11-06,A verifier,Décalage de planning
+2024-11-14,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-21,A verifier,Probléme de badge d'accès
+2024-11-08,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-11,2024-11-15,Mise à jour planning,Mise à jour manquante
+2024-11-04,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-08,Attente d'information,Attente d'information
+2024-11-05,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-07,Absence,Absence pour raisons de santé
+2024-11-08,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-12,A verifier,Décalage de planning
+2024-11-01,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-04,Mise à jour planning,Démission
+2024-11-22,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-24,2024-11-28,Absence,Absence pour raisons de santé
+2024-11-23,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-26,A verifier,Probléme de badge d'accès
+2024-12-04,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-05,2024-12-06,A verifier,Décalage de planning
+2024-11-05,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Mise à jour planning,Démission
+2024-12-01,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-04,A verifier,Probléme de badge d'accès
+2024-11-21,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-24,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-06,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-10,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-14,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-19,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-13,Mise à jour planning,Mise à jour manquante
+2024-11-22,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-24,2024-11-27,A verifier,Décalage de planning
+2024-11-03,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-06,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-01,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-01,2024-11-05,Absence,Absence excepionnelle non prévu
+2024-11-18,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-20,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-20,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-25,Mise à jour planning,Autorisation du responsable direct
+2024-11-25,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-27,2024-12-02,Mise à jour planning,Congé planifié
+2024-11-20,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-20,2024-11-22,Mise à jour planning,Autorisation du responsable direct
+2024-11-11,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-14,Absence,Absence excepionnelle non prévu
+2024-11-11,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-12,2024-11-14,Mise à jour planning,Mise à jour manquante
+2024-11-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-03,Absence,Absence pour raisons de santé
+2024-11-01,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-02,2024-11-06,Mise à jour planning,Démission
+2024-12-01,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-12-02,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-29,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-01,2024-12-05,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-06,Mise à jour planning,Congé planifié
+2024-11-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-06,Mise à jour planning,Démission
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-13,Absence,Absence pour raisons de santé
+2024-11-26,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-27,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-24,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Congé planifié
+2024-11-03,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-22,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,47,2024-11-25,2024-11-30,Absence,Absence pour raisons de santé
+2024-11-24,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-24,2024-11-25,Absence,Absence pour raisons de santé
+2024-11-24,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-26,2024-11-27,Absence,Absence excepionnelle non prévu
+2024-11-28,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-03,Mise à jour planning,Démission
+2024-11-04,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-05,2024-11-07,Mise à jour planning,Mise à jour manquante
+2024-11-08,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-11,2024-11-16,A verifier,Probléme de badge d'accès
+2024-11-26,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-26,2024-11-27,Mise à jour planning,Mise à jour manquante
+2024-12-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-06,2024-12-07,Absence,Absence excepionnelle non prévu
+2024-11-07,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-08,2024-11-12,Absence,Absence pour raisons de santé
+2024-11-28,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-04,Absence,Absence excepionnelle non prévu
+2024-11-29,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-12-03,A verifier,Probléme de badge d'accès
+2024-11-18,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-18,2024-11-22,Attente d'information,Attente d'information
+2024-11-15,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-20,Absence,Absence pour raisons de santé
+2024-11-21,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-27,Absence,Absence excepionnelle non prévu
+2024-11-18,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-26,Absence,Absence pour raisons de santé
+2024-12-03,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-03,2024-12-05,Attente d'information,Attente d'information
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-15,Absence,Absence excepionnelle non prévu
+2024-11-17,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-19,2024-11-23,A verifier,Probléme de badge d'accès
+2024-11-22,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-28,Mise à jour planning,Démission
+2024-11-05,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-29,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-04,Mise à jour planning,Autorisation du responsable direct
+2024-11-01,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,44,2024-11-02,2024-11-05,Mise à jour planning,Congé planifié
+2024-11-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-10,A verifier,Décalage de planning
+2024-11-19,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-20,2024-11-21,A verifier,Probléme de badge d'accès
+2024-11-30,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-25,2024-11-28,Absence,Absence pour raisons de santé
+2024-11-07,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-11-28,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-02,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-12,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-14,A verifier,Probléme de badge d'accès
+2024-11-13,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-13,2024-11-18,Mise à jour planning,Congé planifié
+2024-11-19,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-21,Attente d'information,Attente d'information
+2024-11-08,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-11,2024-11-13,Mise à jour planning,Mise à jour manquante
+2024-11-15,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-12-03,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-03,2024-12-06,Attente d'information,Attente d'information
+2024-11-27,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-01,Absence,Absence pour raisons de santé
+2024-11-29,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-04,Mise à jour planning,Mise à jour manquante
+2024-11-24,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-26,2024-11-28,A verifier,Probléme de badge d'accès
+2024-11-23,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-26,2024-11-29,A verifier,Décalage de planning
+2024-11-11,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-14,2024-11-16,Mise à jour planning,Démission
+2024-11-10,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-11,2024-11-15,Absence,Absence excepionnelle non prévu
+2024-11-25,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-26,2024-12-01,Mise à jour planning,Démission
+2024-11-19,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-20,2024-11-22,Mise à jour planning,Démission
+2024-11-13,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-14,2024-11-18,A verifier,Probléme de badge d'accès
+2024-11-09,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-14,Mise à jour planning,Mise à jour manquante
+2024-11-19,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-22,Mise à jour planning,Mise à jour manquante
+2024-11-11,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-11,2024-11-16,Mise à jour planning,Autorisation du responsable direct
+2024-11-27,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-01,Mise à jour planning,Démission
+2024-11-30,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-12-03,2024-12-05,A verifier,Décalage de planning
+2024-12-05,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-08,Attente d'information,Attente d'information
+2024-11-28,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-30,2024-12-02,A verifier,Décalage de planning
+2024-12-05,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,49,2024-12-06,2024-12-08,Mise à jour planning,Mise à jour manquante
+2024-12-03,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,49,2024-12-03,2024-12-05,A verifier,Décalage de planning
+2024-11-21,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-11-10,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-12,A verifier,Probléme de badge d'accès
+2024-11-04,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-05,2024-11-10,Mise à jour planning,Autorisation du responsable direct
+2024-11-03,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-04,2024-11-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-15,Absence,Absence excepionnelle non prévu
+2024-11-25,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-03,Mise à jour planning,Démission
+2024-11-29,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-29,2024-12-04,Absence,Absence pour raisons de santé
+2024-11-22,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-25,A verifier,Décalage de planning
+2024-11-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-05,2024-11-07,Mise à jour planning,Congé planifié
+2024-11-23,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-27,Attente d'information,Attente d'information
+2024-11-07,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-08,Absence,Absence pour raisons de santé
+2024-11-12,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-18,Absence,Absence excepionnelle non prévu
+2024-11-04,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-09,A verifier,Décalage de planning
+2024-11-17,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-19,Mise à jour planning,Congé planifié
+2024-11-17,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-22,Attente d'information,Attente d'information
+2024-11-26,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-12-04,Attente d'information,Attente d'information
+2024-12-04,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-09,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-02,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,44,2024-11-04,2024-11-06,A verifier,Décalage de planning
+2024-11-28,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Congé planifié
+2024-12-01,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-04,2024-12-05,A verifier,Probléme de badge d'accès
+2024-11-30,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-12-03,2024-12-08,Attente d'information,Attente d'information
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-11-29,A verifier,Probléme de badge d'accès
+2024-11-16,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-18,Mise à jour planning,Mise à jour manquante
+2024-11-17,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-19,2024-11-23,Mise à jour planning,Démission
+2024-11-01,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-01,2024-11-03,Mise à jour planning,Autorisation du responsable direct
+2024-11-22,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-23,Absence,Absence excepionnelle non prévu
+2024-11-27,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-12-02,A verifier,Probléme de badge d'accès
+2024-11-10,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-13,Mise à jour planning,Mise à jour manquante
+2024-11-29,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-04,Attente d'information,Attente d'information
+2024-11-14,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-19,A verifier,Probléme de badge d'accès
+2024-11-29,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-30,2024-12-03,A verifier,Décalage de planning
+2024-11-11,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-15,Mise à jour planning,Congé planifié
+2024-11-21,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-21,2024-11-23,Mise à jour planning,Démission
+2024-12-05,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-06,2024-12-10,Absence,Absence excepionnelle non prévu
+2024-11-10,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-11,2024-11-15,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-10,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-12,2024-11-13,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-30,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-12-03,2024-12-07,Absence,Absence pour raisons de santé
+2024-11-06,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-07,Attente d'information,Attente d'information
+2024-11-15,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-17,2024-11-19,A verifier,Probléme de badge d'accès
+2024-11-23,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-26,2024-11-30,A verifier,Probléme de badge d'accès
+2024-11-20,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-21,2024-11-25,Absence,Absence pour raisons de santé
+2024-11-08,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-11,2024-11-12,A verifier,Probléme de badge d'accès
+2024-11-10,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-15,Mise à jour planning,Autorisation du responsable direct
+2024-12-04,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-10,Mise à jour planning,Mise à jour manquante
+2024-11-30,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-12-02,2024-12-04,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-16,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-19,2024-11-21,Mise à jour planning,Congé planifié
+2024-12-01,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-01,2024-12-04,Mise à jour planning,Mise à jour manquante
+2024-11-03,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,44,2024-11-04,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-12-03,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-09,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-15,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-21,A verifier,Décalage de planning
+2024-11-18,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-18,2024-11-23,Mise à jour planning,Autorisation du responsable direct
+2024-11-17,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-19,A verifier,Décalage de planning
+2024-11-07,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-13,Attente d'information,Attente d'information
+2024-11-21,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-22,2024-11-23,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-11,2024-11-12,Attente d'information,Attente d'information
+2024-11-10,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-15,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-04,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-04,2024-11-09,Mise à jour planning,Autorisation du responsable direct
+2024-12-02,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-09,Attente d'information,Attente d'information
+2024-12-02,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-05,2024-12-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-25,2024-11-30,Mise à jour planning,Mise à jour manquante
+2024-12-04,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-06,Mise à jour planning,Mise à jour manquante
+2024-11-18,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-25,A verifier,Probléme de badge d'accès
+2024-11-27,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-01,Mise à jour planning,Autorisation du responsable direct
+2024-11-13,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-19,Mise à jour planning,Démission
+2024-11-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-12,A verifier,Probléme de badge d'accès
+2024-11-12,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-15,Absence,Absence pour raisons de santé
+2024-11-25,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-03,A verifier,Décalage de planning
+2024-11-09,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-15,Mise à jour planning,Démission
+2024-11-13,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-13,2024-11-17,Mise à jour planning,Démission
+2024-11-24,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-27,2024-12-01,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-08,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,45,2024-11-10,2024-11-14,Mise à jour planning,Autorisation du responsable direct
+2024-11-08,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-09,2024-11-11,Mise à jour planning,Démission
+2024-12-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-02,2024-12-06,Mise à jour planning,Autorisation du responsable direct
+2024-11-28,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-06,Mise à jour planning,Démission
+2024-11-23,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-26,A verifier,Décalage de planning
+2024-11-07,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-13,Absence,Absence pour raisons de santé
+2024-11-30,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-03,2024-12-07,Attente d'information,Attente d'information
+2024-11-26,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-03,A verifier,Décalage de planning
+2024-11-16,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-19,2024-11-23,A verifier,Probléme de badge d'accès
+2024-11-23,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-25,Mise à jour planning,Démission
+2024-11-17,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-24,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-27,2024-12-02,A verifier,Décalage de planning
+2024-11-10,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-12,2024-11-16,A verifier,Décalage de planning
+2024-11-26,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-12,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-18,Mise à jour planning,Démission
+2024-11-20,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-24,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-05,2024-11-06,Absence,Absence excepionnelle non prévu
+2024-11-11,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-11,2024-11-14,A verifier,Probléme de badge d'accès
+2024-11-14,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-18,Absence,Absence excepionnelle non prévu
+2024-11-12,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-13,2024-11-17,Mise à jour planning,Démission
+2024-11-29,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-06,A verifier,Probléme de badge d'accès
+2024-11-30,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-03,2024-12-06,Mise à jour planning,Congé planifié
+2024-11-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-10,Absence,Absence pour raisons de santé
+2024-11-15,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-18,2024-11-22,A verifier,Décalage de planning
+2024-11-21,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-26,A verifier,Probléme de badge d'accès
+2024-11-10,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-12,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-24,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Mise à jour manquante
+2024-11-23,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-26,Mise à jour planning,Mise à jour manquante
+2024-11-07,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-13,A verifier,Décalage de planning
+2024-11-13,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-16,Mise à jour planning,Démission
+2024-11-30,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-02,2024-12-07,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-27,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-11-30,Absence,Absence excepionnelle non prévu
+2024-11-21,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-28,A verifier,Probléme de badge d'accès
+2024-11-15,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-17,2024-11-20,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-15,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-17,Mise à jour planning,Démission
+2024-11-03,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,44,2024-11-04,2024-11-07,A verifier,Décalage de planning
+2024-11-27,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-01,Mise à jour planning,Démission
+2024-11-21,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-11-14,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-17,2024-11-19,Mise à jour planning,Autorisation du responsable direct
+2024-11-22,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-23,2024-11-24,Mise à jour planning,Démission
+2024-11-20,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-26,A verifier,Décalage de planning
+2024-11-06,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-12,Mise à jour planning,Démission
+2024-12-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-04,2024-12-09,Absence,Absence pour raisons de santé
+2024-11-24,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-25,2024-11-26,Mise à jour planning,Autorisation du responsable direct
+2024-11-26,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-29,2024-12-02,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-13,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-13,2024-11-14,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-11,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,46,2024-11-13,2024-11-15,A verifier,Décalage de planning
+2024-11-04,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-11,Mise à jour planning,Autorisation du responsable direct
+2024-11-17,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-18,2024-11-20,Mise à jour planning,Mise à jour manquante
+2024-11-17,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-19,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-18,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-24,Absence,Absence excepionnelle non prévu
+2024-11-02,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,44,2024-11-02,2024-11-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-15,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-18,Mise à jour planning,Congé planifié
+2024-11-06,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-10,A verifier,Décalage de planning
+2024-11-06,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-08,Mise à jour planning,Démission
+2024-11-28,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-12-03,Mise à jour planning,Congé planifié
+2024-11-04,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-04,2024-11-09,Mise à jour planning,Congé planifié
+2024-11-05,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-07,Attente d'information,Attente d'information
+2024-11-09,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-12,2024-11-13,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-26,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-12-01,Mise à jour planning,Congé planifié
+2024-11-06,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-11,Absence,Absence excepionnelle non prévu
+2024-11-28,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-11-30,Mise à jour planning,Mise à jour manquante
+2024-11-19,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-21,2024-11-22,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-27,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-29,2024-12-03,Absence,Absence excepionnelle non prévu
+2024-11-14,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-16,Mise à jour planning,Mise à jour manquante
+2024-11-27,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-11-30,Mise à jour planning,Congé planifié
+2024-11-30,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-06,A verifier,Probléme de badge d'accès
+2024-11-25,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-12-01,Mise à jour planning,Mise à jour manquante
+2024-11-17,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-20,2024-11-25,A verifier,Probléme de badge d'accès
+2024-11-14,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-20,Attente d'information,Attente d'information
+2024-12-03,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-04,2024-12-07,Mise à jour planning,Démission
+2024-11-12,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-14,2024-11-17,A verifier,Décalage de planning
+2024-11-30,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-03,2024-12-06,Attente d'information,Attente d'information
+2024-12-04,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-05,Mise à jour planning,Démission
+2024-11-29,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-12-02,2024-12-03,Mise à jour planning,Congé planifié
+2024-11-06,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-14,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-26,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,48,2024-11-26,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-02,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-02,2024-12-03,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-05,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-05,2024-12-06,Mise à jour planning,Congé planifié
+2024-11-14,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-21,Mise à jour planning,Mise à jour manquante
+2024-11-02,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,44,2024-11-04,2024-11-05,Attente d'information,Attente d'information
+2024-11-15,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-11-21,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-22,2024-11-25,Attente d'information,Attente d'information
+2024-12-03,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-04,2024-12-07,Absence,Absence pour raisons de santé
+2024-11-13,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-16,2024-11-21,Mise à jour planning,Mise à jour manquante
+2024-11-05,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,45,2024-11-07,2024-11-11,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-13,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-19,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-03,2024-11-05,Mise à jour planning,Autorisation du responsable direct
+2024-11-25,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-25,2024-11-30,Mise à jour planning,Mise à jour manquante
+2024-11-23,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-24,2024-11-25,A verifier,Décalage de planning
+2024-11-01,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-04,Mise à jour planning,Mise à jour manquante
+2024-11-06,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-10,Absence,Absence excepionnelle non prévu
+2024-12-03,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-04,2024-12-06,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-05,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-08,2024-12-13,Absence,Absence pour raisons de santé
+2024-11-22,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-25,2024-11-30,Mise à jour planning,Congé planifié
+2024-11-19,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-21,2024-11-23,Attente d'information,Attente d'information
+2024-11-30,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-12-01,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-01,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,48,2024-12-04,2024-12-09,A verifier,Décalage de planning
+2024-12-02,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-05,2024-12-10,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-29,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-30,2024-12-01,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-12,Absence,Absence excepionnelle non prévu
+2024-11-15,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-18,2024-11-23,A verifier,Probléme de badge d'accès
+2024-11-15,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-17,Absence,Absence pour raisons de santé
+2024-11-12,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-11-14,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-17,2024-11-21,Absence,Absence excepionnelle non prévu
+2024-11-12,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-02,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-08,Mise à jour planning,Autorisation du responsable direct
+2024-11-30,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-05,Mise à jour planning,Démission
+2024-11-15,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-19,A verifier,Décalage de planning
+2024-12-05,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-07,Absence,Absence excepionnelle non prévu
+2024-11-20,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-22,2024-11-24,Mise à jour planning,Mise à jour manquante
+2024-11-18,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-11-14,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-17,Mise à jour planning,Congé planifié
+2024-11-29,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-01,2024-12-04,Mise à jour planning,Mise à jour manquante
+2024-12-02,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-03,2024-12-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-07,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-13,A verifier,Décalage de planning
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-10,2024-11-11,Attente d'information,Attente d'information
+2024-11-07,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,45,2024-11-09,2024-11-13,Attente d'information,Attente d'information
+2024-11-06,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-11,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-14,2024-11-15,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-26,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-26,2024-11-27,A verifier,Probléme de badge d'accès
+2024-11-19,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,47,2024-11-19,2024-11-21,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-12,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Absence,Absence excepionnelle non prévu
+2024-11-16,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-18,2024-11-22,A verifier,Décalage de planning
+2024-11-28,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-29,2024-12-04,Absence,Absence pour raisons de santé
+2024-11-25,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,48,2024-11-28,2024-12-02,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-21,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-22,2024-11-27,Absence,Absence excepionnelle non prévu
+2024-11-10,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-10,2024-11-11,Attente d'information,Attente d'information
+2024-11-13,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-16,2024-11-20,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-02,2024-11-05,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-08,A verifier,Probléme de badge d'accès
+2024-11-14,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Attente d'information,Attente d'information
+2024-11-05,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-06,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-08,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-14,Absence,Absence pour raisons de santé
+2024-11-20,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,47,2024-11-23,2024-11-24,Absence,Absence pour raisons de santé
+2024-11-27,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-30,2024-12-01,A verifier,Décalage de planning
+2024-11-20,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-20,2024-11-23,Mise à jour planning,Mise à jour manquante
+2024-11-05,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,45,2024-11-05,2024-11-08,Mise à jour planning,Mise à jour manquante
+2024-11-22,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,47,2024-11-22,2024-11-27,Mise à jour planning,Démission
+2024-11-15,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-18,Absence,Absence pour raisons de santé
+2024-11-04,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-10,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-21,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-22,2024-11-26,Attente d'information,Attente d'information
+2024-11-10,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-12,Mise à jour planning,Congé planifié
+2024-12-02,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-03,2024-12-08,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-25,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-25,2024-11-29,Mise à jour planning,Autorisation du responsable direct
+2024-11-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-06,2024-11-11,A verifier,Probléme de badge d'accès
+2024-11-27,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Démission
+2024-11-09,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-11,2024-11-14,Absence,Absence excepionnelle non prévu
+2024-11-15,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-20,A verifier,Probléme de badge d'accès
+2024-12-05,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-09,Absence,Absence excepionnelle non prévu
+2024-11-14,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-21,Mise à jour planning,Congé planifié
+2024-11-14,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-16,Attente d'information,Attente d'information
+2024-12-03,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,49,2024-12-03,2024-12-08,A verifier,Probléme de badge d'accès
+2024-12-01,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-05,Attente d'information,Attente d'information
+2024-11-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-06,A verifier,Décalage de planning
+2024-11-24,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-27,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-18,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-21,2024-11-22,Absence,Absence pour raisons de santé
+2024-12-04,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-09,A verifier,Probléme de badge d'accès
+2024-11-09,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-12,Mise à jour planning,Mise à jour manquante
+2024-11-19,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-24,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-02,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-04,2024-12-07,Mise à jour planning,Congé planifié
+2024-11-19,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-19,2024-11-21,Mise à jour planning,Démission
+2024-12-05,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-10,Mise à jour planning,Mise à jour manquante
+2024-11-17,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-18,2024-11-23,Mise à jour planning,Démission
+2024-11-05,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-09,Attente d'information,Attente d'information
+2024-11-24,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,47,2024-11-25,2024-11-27,Mise à jour planning,Mise à jour manquante
+2024-11-03,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,44,2024-11-05,2024-11-06,Mise à jour planning,Démission
+2024-12-03,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,49,2024-12-03,2024-12-07,Mise à jour planning,Démission
+2024-11-09,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-11,2024-11-14,A verifier,Décalage de planning
+2024-11-18,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-19,2024-11-24,Mise à jour planning,Autorisation du responsable direct
+2024-11-18,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-20,2024-11-21,Mise à jour planning,Démission
+2024-11-25,Bob Johnson,bob.johnson@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-12-01,Mise à jour planning,Démission
+2024-11-16,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-18,2024-11-22,Absence,Absence excepionnelle non prévu
+2024-11-13,Charlie Brown,charlie.brown@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-18,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-04,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,49,2024-12-07,2024-12-12,Mise à jour planning,Démission
+2024-11-03,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-06,Absence,Absence pour raisons de santé
+2024-11-30,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-03,Mise à jour planning,Congé planifié
+2024-11-05,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-11,Absence,Absence pour raisons de santé
+2024-11-06,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-10,Absence,Absence pour raisons de santé
+2024-11-18,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,47,2024-11-18,2024-11-19,Absence,Absence pour raisons de santé
+2024-11-23,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-23,2024-11-25,Absence,Absence excepionnelle non prévu
+2024-11-30,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-30,2024-12-04,A verifier,Décalage de planning
+2024-11-01,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,44,2024-11-04,2024-11-09,Mise à jour planning,Autorisation du responsable direct
+2024-11-21,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-26,Mise à jour planning,Autorisation du responsable direct
+2024-11-02,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,44,2024-11-03,2024-11-06,Attente d'information,Attente d'information
+2024-11-14,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,46,2024-11-14,2024-11-17,Absence,Absence excepionnelle non prévu
+2024-11-15,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Mise à jour planning,Mise à jour manquante
+2024-12-02,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,49,2024-12-02,2024-12-03,Attente d'information,Attente d'information
+2024-12-03,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,49,2024-12-05,2024-12-08,Mise à jour planning,Démission
+2024-12-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-07,2024-12-11,Mise à jour planning,Autorisation du responsable direct
+2024-12-01,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-12-02,2024-12-04,Mise à jour planning,Autorisation du responsable direct
+2024-11-12,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-13,2024-11-16,Absence,Absence excepionnelle non prévu
+2024-11-17,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-20,2024-11-22,Mise à jour planning,Mise à jour manquante
+2024-11-05,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-11,Mise à jour planning,Mise à jour manquante
+2024-11-06,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-10,Mise à jour planning,Autorisation du responsable direct
+2024-11-11,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-11,2024-11-12,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-12-04,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-06,2024-12-07,A verifier,Décalage de planning
+2024-11-30,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-03,2024-12-07,A verifier,Probléme de badge d'accès
+2024-11-28,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-12-01,2024-12-04,A verifier,Probléme de badge d'accès
+2024-11-12,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-20,A verifier,Probléme de badge d'accès
+2024-11-05,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-07,2024-11-09,Absence,Absence excepionnelle non prévu
+2024-11-13,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-15,2024-11-19,Mise à jour planning,Mise à jour manquante
+2024-11-27,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,48,2024-11-27,2024-11-29,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-05,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-13,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-18,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-27,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-28,2024-12-02,A verifier,Probléme de badge d'accès
+2024-12-01,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-01,2024-12-03,Mise à jour planning,Autorisation du responsable direct
+2024-11-30,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-12-03,2024-12-05,Mise à jour planning,Mise à jour manquante
+2024-12-05,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-06,2024-12-09,Attente d'information,Attente d'information
+2024-11-16,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-16,2024-11-18,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-17,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-06,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,45,2024-11-06,2024-11-11,Absence,Absence excepionnelle non prévu
+2024-11-29,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,48,2024-12-01,2024-12-05,Absence,Absence pour raisons de santé
+2024-11-07,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-13,Absence,Absence excepionnelle non prévu
+2024-11-04,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,45,2024-11-07,2024-11-10,Absence,Absence excepionnelle non prévu
+2024-11-25,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-28,2024-12-02,Mise à jour planning,Congé planifié
+2024-11-30,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-11-30,2024-12-02,Absence,Absence pour raisons de santé
+2024-11-24,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-26,2024-12-01,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-22,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-24,2024-11-28,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-24,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,47,2024-11-24,2024-11-25,A verifier,Décalage de planning
+2024-11-03,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,44,2024-11-03,2024-11-07,Attente d'information,Attente d'information
+2024-11-14,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-25,Diana Prince,diana.prince@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-26,2024-11-27,A verifier,Décalage de planning
+2024-11-04,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-05,2024-11-09,A verifier,Décalage de planning
+2024-11-08,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-09,2024-11-14,Mise à jour planning,Démission
+2024-11-07,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,45,2024-11-07,2024-11-11,Attente d'information,Attente d'information
+2024-11-13,Bob Johnson,bob.johnson@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-16,Mise à jour planning,Démission
+2024-11-04,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-04,2024-11-07,Absence,Absence excepionnelle non prévu
+2024-11-19,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-19,2024-11-23,Mise à jour planning,Démission
+2024-11-19,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,47,2024-11-20,2024-11-24,Mise à jour planning,Autorisation du responsable direct
+2024-12-04,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,49,2024-12-06,2024-12-07,Absence,Absence excepionnelle non prévu
+2024-11-20,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,47,2024-11-21,2024-11-24,A verifier,Décalage de planning
+2024-11-13,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,46,2024-11-15,2024-11-20,Attente d'information,Attente d'information
+2024-11-12,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-17,Mise à jour planning,Mise à jour manquante
+2024-11-25,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-27,2024-11-29,A verifier,Probléme de badge d'accès
+2024-11-12,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-12,2024-11-17,Mise à jour planning,Mise à jour manquante
+2024-11-26,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,48,2024-11-27,2024-12-02,Mise à jour planning,Mise à jour manquante
+2024-11-04,Evan Williams,evan.williams@example.com,John Doe,john.doe@company.com,45,2024-11-06,2024-11-09,Absence,Absence pour raisons de santé
+2024-11-26,Diana Prince,diana.prince@example.com,John Doe,john.doe@company.com,48,2024-11-26,2024-11-29,Attente d'information,Attente d'information
+2024-12-05,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,49,2024-12-08,2024-12-10,Mise à jour planning,Démission
+2024-11-18,Alice Smith,alice.smith@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-20,2024-11-22,Absence,Absence pour raisons de santé
+2024-11-24,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-27,2024-12-01,Attente d'information,Attente d'information
+2024-11-08,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,45,2024-11-08,2024-11-11,A verifier,Probléme de badge d'accès
+2024-11-14,Charlie Brown,charlie.brown@example.com,Rick Grimes,rick.grimes@company.com,46,2024-11-15,2024-11-16,Absence,Absence pour raisons de santé
+2024-11-14,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-16,2024-11-20,Mise à jour planning,Mise à jour manquante
+2024-11-16,Bob Johnson,bob.johnson@example.com,Jane Roe,jane.roe@company.com,46,2024-11-17,2024-11-22,Mise à jour planning,Mise à jour manquante
+2024-11-09,Evan Williams,evan.williams@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-12,2024-11-14,Mise à jour planning,Intervention chez un client/autre emplacement
+2024-11-28,Evan Williams,evan.williams@example.com,Jane Roe,jane.roe@company.com,48,2024-11-29,2024-12-03,Absence,Absence excepionnelle non prévu
+2024-11-03,Diana Prince,diana.prince@example.com,Jane Roe,jane.roe@company.com,44,2024-11-03,2024-11-04,Attente d'information,Attente d'information
+2024-11-28,Charlie Brown,charlie.brown@example.com,John Doe,john.doe@company.com,48,2024-11-29,2024-12-02,Mise à jour planning,Démission
+2024-11-13,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,46,2024-11-14,2024-11-19,Attente d'information,Attente d'information
+2024-11-23,Alice Smith,alice.smith@example.com,Sarah Connor,sarah.connor@company.com,47,2024-11-23,2024-11-28,Mise à jour planning,Autorisation du responsable direct
+2024-11-13,Charlie Brown,charlie.brown@example.com,Sarah Connor,sarah.connor@company.com,46,2024-11-15,2024-11-17,A verifier,Décalage de planning
+2024-11-01,Alice Smith,alice.smith@example.com,Jane Roe,jane.roe@company.com,44,2024-11-04,2024-11-05,A verifier,Probléme de badge d'accès
+2024-11-25,Evan Williams,evan.williams@example.com,Sarah Connor,sarah.connor@company.com,48,2024-11-28,2024-11-29,Mise à jour planning,Congé planifié
+2024-11-19,Diana Prince,diana.prince@example.com,Rick Grimes,rick.grimes@company.com,47,2024-11-19,2024-11-22,Mise à jour planning,Autorisation du responsable direct
+2024-11-06,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,45,2024-11-08,2024-11-09,Mise à jour planning,Démission
+2024-11-07,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-10,2024-11-12,Attente d'information,Attente d'information
+2024-12-01,Alice Smith,alice.smith@example.com,John Doe,john.doe@company.com,48,2024-12-04,2024-12-05,Absence,Absence excepionnelle non prévu
+2024-11-06,Bob Johnson,bob.johnson@example.com,Rick Grimes,rick.grimes@company.com,45,2024-11-08,2024-11-13,Absence,Absence excepionnelle non prévu
